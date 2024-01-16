@@ -1,9 +1,10 @@
-body{
+body {
   background: var(--bs-link-color);
 }
-.todo-card{
+.todo-card {
   background: #fff;
 }
 .bs-link-color {
   color: var(--bs-link-color) !important;
 }
+
